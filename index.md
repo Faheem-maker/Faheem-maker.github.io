@@ -17,4 +17,4 @@ Any one wants a project feel free to contact me
 More coming soon!Keep up
 ### Support or Contact
 
-Having trouble with Pages? Contact [Me on my email](faheemanis@itlinkonline.com)
+Having trouble with Pages? Contact faheemanis@itlinkonline.com
