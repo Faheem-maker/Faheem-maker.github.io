@@ -1,13 +1,12 @@
-## Feel free to find new projects on github
+## keep up with the site to Find new projects and lessons 
 
-**Feel free to book mark this page so you can keep up with my projects**
+
 
 
 **Lots of love to github for helping me generate my own website**
 ### Markdown
 
-Much more will be added soon keep up to recieve updates
-
+Much more will be added soon 
 
 
 Any one wants a project feel free to contact me
