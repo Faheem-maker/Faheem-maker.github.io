@@ -8,7 +8,7 @@
 
 Soon adding Minecraft modding lessons
     img{
-        <img src=Faheem-maker.github.io/images/Mod screenshot.jpg>
+        <img src=Faheem-maker.github.io/images/Mod screenshot.jpg
         }
 
 
