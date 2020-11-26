@@ -7,7 +7,9 @@
 ### Markdown
 
 Soon adding Minecraft modding lessons
-    <img src=Faheem-maker.github.io/images/Mod screenshot.jpg>
+    img{
+        <img src=Faheem-maker.github.io/images/Mod screenshot.jpg>
+        }
 
 
 Any one wants a project feel free to contact me
